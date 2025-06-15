@@ -1,101 +1,101 @@
 Gender,Age,Income_level,Product_interest,Purchase_history,Frequency_of_visit,Total_spend,Customer_satisfaction,Abandoned_cart,Will_purchase
-Male,58,High,Beauty,Frequent,Monthly,Low,Very Dissatisfied,Yes,Yes
-Female,49,High,Beauty,Frequent,Daily,Medium,Dissatisfied,Yes,No
-Male,26,Medium,Furniture,Frequent,Weekly,High,Very Dissatisfied,No,No
-Male,60,High,Beauty ,Never,Monthly,Medium,Very Satisfied,Yes,No
-Female,60,High,Beauty ,Occasional,Monthly,High,Neutral,No,Yes
-Other,53,Low,Groceries,Occasional,Weekly,Low,Very Satisfied,Yes,No
-Male,36,Low,Furniture,Never,Monthly,Low,Very Dissatisfied,Yes,No
-Other,43,High,Beauty ,Frequent,Weekly,High,Very Satisfied,Yes,Yes
-Female,53,Low,Clothing,Frequent,Rarely,High,Neutral,Yes,No
-Other,54,High,Beauty ,Occasional,Weekly,Medium,Satisfied,Yes,Yes
-Male,24,Medium,Clothing,Never,Weekly,High,Dissatisfied,No,Yes
-Other,40,High,Beauty,Rare,Daily,High,Very Dissatisfied,Yes,Yes
-Other,22,Medium,Electronics,Occasional,Rarely,Medium,Dissatisfied,Yes,No
-Male,36,Low,Clothing,Frequent,Daily,High,Very Satisfied,No,Yes
-Male,37,Low,Furniture,Occasional,Monthly,Low,Dissatisfied,No,Yes
-Female,42,Medium,Groceries,Occasional,Weekly,Low,Very Dissatisfied,Yes,No
-Other,62,Medium,Clothing,Rare,Monthly,High,Very Satisfied,No,Yes
-Female,58,Low,Clothing,Rare,Rarely,Low,Dissatisfied,No,No
-Female,60,Medium,Clothing,Rare,Daily,Medium,Very Satisfied,No,Yes
-Male,43,High,Electronics,Occasional,Monthly,Medium,Very Satisfied,Yes,Yes
-Female,22,Medium,Clothing,Occasional,Weekly,High,Dissatisfied,No,No
-Male,63,Low,Beauty ,Never,Weekly,Medium,Satisfied,No,Yes
-Other,54,Medium,Groceries,Occasional,Monthly,Low,Dissatisfied,Yes,No
-Male,22,Medium,Beauty ,Occasional,Daily,High,Satisfied,No,No
-Female,60,Medium,Furniture,Rare,Rarely,Low,Dissatisfied,Yes,Yes
-Female,64,Low,Clothing,Frequent,Rarely,Medium,Neutral,Yes,No
-Other,19,Low,Electronics,Occasional,Monthly,Low,Dissatisfied,No,No
-Male,44,Low,Groceries,Rare,Monthly,Low,Very Satisfied,Yes,No
-Female,59,High,Clothing,Never,Monthly,High,Very Satisfied,Yes,Yes
-Other,23,Medium,Furniture,Frequent,Daily,High,Very Satisfied,Yes,No
-Male,31,Low,Clothing,Occasional,Weekly,High,Very Satisfied,Yes,No
-Male,56,Medium,Groceries,Never,Daily,High,Neutral,No,No
-Male,61,Medium,Electronics,Never,Rarely,High,Very Satisfied,No,Yes
-Other,59,High,Electronics,Frequent,Weekly,Low,Very Satisfied,No,No
-Female,64,High,Groceries,Never,Weekly,High,Satisfied,No,Yes
-Other,21,Medium,Furniture,Frequent,Weekly,Medium,Very Satisfied,Yes,Yes
-Female,39,Low,Furniture,Frequent,Daily,High,Very Dissatisfied,Yes,No
-Female,24,High,Groceries,Never,Weekly,Medium,Very Dissatisfied,No,Yes
-Female,39,High,Furniture,Occasional,Monthly,Medium,Very Satisfied,Yes,No
-Male,63,Low,Clothing,Rare,Rarely,High,Very Satisfied,No,Yes
-Female,53,Medium,Groceries,Rare,Daily,Medium,Neutral,Yes,No
-Female,60,Low,Groceries,Never,Daily,Low,Neutral,No,No
-Other,60,Low,Groceries,Frequent,Weekly,Medium,Satisfied,Yes,No
-Other,52,High,Furniture,Frequent,Daily,Medium,Satisfied,No,Yes
-Female,63,High,Furniture,Frequent,Daily,Low,Dissatisfied,No,Yes
-Female,44,Low,Clothing,Rare,Monthly,Medium,Satisfied,Yes,Yes
-Female,22,Low,Clothing,Occasional,Rarely,Medium,Very Satisfied,Yes,Yes
-Other,20,High,Electronics,Never,Rarely,Medium,Satisfied,No,Yes
-Male,56,High,Beauty ,Rare,Daily,High,Dissatisfied,No,No
-Male,20,Low,Electronics,Frequent,Weekly,High,Very Dissatisfied,Yes,No
-Female,57,Low,Electronics,Frequent,Weekly,High,Very Dissatisfied,Yes,Yes
-Other,41,High,Furniture,Occasional,Monthly,Medium,Satisfied,No,Yes
-Male,33,High,Electronics,Rare,Weekly,High,Satisfied,Yes,No
-Other,56,Medium,Beauty ,Frequent,Daily,High,Very Satisfied,Yes,Yes
-Other,29,Medium,Electronics,Occasional,Monthly,Low,Very Dissatisfied,Yes,No
-Female,57,Medium,Beauty,Rare,Weekly,Medium,Dissatisfied,No,No
-Male,25,Low,Groceries,Frequent,Daily,Low,Very Satisfied,No,No
-Other,35,Low,Beauty ,Never,Weekly,Medium,Very Dissatisfied,No,No
-Other,48,Low,Furniture,Occasional,Rarely,Medium,Satisfied,No,No
-Male,33,High,Furniture,Rare,Rarely,Low,Very Satisfied,No,No
-Female,58,High,Groceries,Never,Weekly,High,Very Satisfied,No,Yes
-Male,42,Low,Groceries,Occasional,Daily,High,Very Dissatisfied,Yes,Yes
-Other,35,Low,Groceries,Rare,Weekly,Medium,Satisfied,Yes,No
-Male,26,Low,Electronics,Frequent,Rarely,Low,Neutral,Yes,No
-Other,34,Low,Furniture,Occasional,Rarely,Low,Neutral,No,Yes
-Female,41,Low,Clothing,Never,Monthly,Low,Neutral,Yes,Yes
-Female,39,Medium,Clothing,Frequent,Daily,Low,Dissatisfied,Yes,No
-Male,37,Low,Furniture,Frequent,Monthly,High,Satisfied,No,Yes
-Female,35,High,Beauty ,Never,Daily,Low,Satisfied,Yes,Yes
-Other,54,Low,Furniture,Occasional,Rarely,Medium,Neutral,Yes,Yes
-Other,26,Low,Beauty ,Rare,Monthly,Medium,Very Satisfied,Yes,No
-Other,42,Medium,Groceries,Occasional,Weekly,Low,Neutral,Yes,No
-Male,19,Low,Furniture,Occasional,Rarely,High,Satisfied,No,Yes
-Female,54,Low,Clothing,Occasional,Daily,High,Satisfied,No,No
-Female,24,High,Clothing,Occasional,Rarely,Low,Satisfied,No,Yes
-Other,36,Medium,Furniture,Never,Daily,Low,Dissatisfied,Yes,No
-Other,22,High,Beauty ,Frequent,Weekly,High,Very Dissatisfied,No,Yes
-Male,43,High,Furniture,Never,Weekly,High,Very Dissatisfied,No,No
-Male,56,Low,Groceries,Never,Daily,High,Dissatisfied,No,No
-Male,27,Low,Electronics,Frequent,Rarely,High,Very Satisfied,No,Yes
-Other,44,Medium,Beauty ,Frequent,Daily,High,Very Dissatisfied,Yes,Yes
-Female,19,Medium,Beauty,Frequent,Weekly,High,Very Dissatisfied,No,No
-Female,63,Low,Clothing,Frequent,Daily,Medium,Neutral,No,Yes
-Other,29,Medium,Groceries,Frequent,Monthly,Low,Satisfied,No,Yes
-Female,23,High,Electronics,Occasional,Daily,Medium,Neutral,No,No
-Male,47,Medium,Electronics,Never,Monthly,Low,Very Satisfied,Yes,No
-Female,48,Medium,Electronics,Rare,Monthly,Low,Dissatisfied,Yes,No
-Male,25,Medium,Beauty,Occasional,Monthly,Low,Satisfied,No,No
-Other,50,Low,Clothing,Never,Monthly,Medium,Dissatisfied,No,No
-Male,60,Low,Furniture,Rare,Weekly,Medium,Very Satisfied,Yes,Yes
-Male,22,High,Furniture,Occasional,Monthly,High,Neutral,No,Yes
-Female,23,Medium,Groceries,Rare,Monthly,Low,Satisfied,No,Yes
-Female,40,High,Clothing,Rare,Monthly,Medium,Very Satisfied,Yes,Yes
-Other,44,Low,Beauty ,Frequent,Rarely,Low,Very Satisfied,Yes,No
-Female,23,Medium,Groceries,Frequent,Rarely,High,Satisfied,Yes,No
-Other,59,High,Beauty ,Frequent,Daily,Low,Very Satisfied,No,Yes
-Female,46,Medium,Furniture,Occasional,Weekly,Low,Neutral,No,No
-Other,42,Medium,Clothing,Rare,Daily,Medium,Very Satisfied,No,No
-Other,48,Low,Electronics,Frequent,Weekly,Low,Very Satisfied,Yes,Yes
-Male,24,High,Groceries,Never,Monthly,Low,Dissatisfied,No,No
+Male,Senior,High,Beauty,Frequent,Monthly,Low,Very Dissatisfied,Yes,Yes
+Female,Adult,High,Beauty,Frequent,Daily,Medium,Dissatisfied,Yes,No
+Male,Young Adult,Medium,Furniture,Frequent,Weekly,High,Very Dissatisfied,No,No
+Male,Senior,High,Beauty ,Never,Monthly,Medium,Very Satisfied,Yes,No
+Female,Senior,High,Beauty ,Occasional,Monthly,High,Neutral,No,Yes
+Other,Adult,Low,Groceries,Occasional,Weekly,Low,Very Satisfied,Yes,No
+Male,Adult,Low,Furniture,Never,Monthly,Low,Very Dissatisfied,Yes,No
+Other,Adult,High,Beauty ,Frequent,Weekly,High,Very Satisfied,Yes,Yes
+Female,Adult,Low,Clothing,Frequent,Rarely,High,Neutral,Yes,No
+Other,Adult,High,Beauty ,Occasional,Weekly,Medium,Satisfied,Yes,Yes
+Male,Young Adult,Medium,Clothing,Never,Weekly,High,Dissatisfied,No,Yes
+Other,Adult,High,Beauty,Rare,Daily,High,Very Dissatisfied,Yes,Yes
+Other,Young Adult,Medium,Electronics,Occasional,Rarely,Medium,Dissatisfied,Yes,No
+Male,Adult,Low,Clothing,Frequent,Daily,High,Very Satisfied,No,Yes
+Male,Adult,Low,Furniture,Occasional,Monthly,Low,Dissatisfied,No,Yes
+Female,Adult,Medium,Groceries,Occasional,Weekly,Low,Very Dissatisfied,Yes,No
+Other,Senior,Medium,Clothing,Rare,Monthly,High,Very Satisfied,No,Yes
+Female,Senior,Low,Clothing,Rare,Rarely,Low,Dissatisfied,No,No
+Female,Senior,Medium,Clothing,Rare,Daily,Medium,Very Satisfied,No,Yes
+Male,Adult,High,Electronics,Occasional,Monthly,Medium,Very Satisfied,Yes,Yes
+Female,Young Adult,Medium,Clothing,Occasional,Weekly,High,Dissatisfied,No,No
+Male,Senior,Low,Beauty ,Never,Weekly,Medium,Satisfied,No,Yes
+Other,Adult,Medium,Groceries,Occasional,Monthly,Low,Dissatisfied,Yes,No
+Male,Young Adult,Medium,Beauty ,Occasional,Daily,High,Satisfied,No,No
+Female,Senior,Medium,Furniture,Rare,Rarely,Low,Dissatisfied,Yes,Yes
+Female,Senior,Low,Clothing,Frequent,Rarely,Medium,Neutral,Yes,No
+Other,Teen,Low,Electronics,Occasional,Monthly,Low,Dissatisfied,No,No
+Male,Adult,Low,Groceries,Rare,Monthly,Low,Very Satisfied,Yes,No
+Female,Senior,High,Clothing,Never,Monthly,High,Very Satisfied,Yes,Yes
+Other,Young Adult,Medium,Furniture,Frequent,Daily,High,Very Satisfied,Yes,No
+Male,Young Adult,Low,Clothing,Occasional,Weekly,High,Very Satisfied,Yes,No
+Male,Senior,Medium,Groceries,Never,Daily,High,Neutral,No,No
+Male,Senior,Medium,Electronics,Never,Rarely,High,Very Satisfied,No,Yes
+Other,Senior,High,Electronics,Frequent,Weekly,Low,Very Satisfied,No,No
+Female,Senior,High,Groceries,Never,Weekly,High,Satisfied,No,Yes
+Other,Young Adult,Medium,Furniture,Frequent,Weekly,Medium,Very Satisfied,Yes,Yes
+Female,Adult,Low,Furniture,Frequent,Daily,High,Very Dissatisfied,Yes,No
+Female,Young Adult,High,Groceries,Never,Weekly,Medium,Very Dissatisfied,No,Yes
+Female,Adult,High,Furniture,Occasional,Monthly,Medium,Very Satisfied,Yes,No
+Male,Senior,Low,Clothing,Rare,Rarely,High,Very Satisfied,No,Yes
+Female,Adult,Medium,Groceries,Rare,Daily,Medium,Neutral,Yes,No
+Female,Senior,Low,Groceries,Never,Daily,Low,Neutral,No,No
+Other,Senior,Low,Groceries,Frequent,Weekly,Medium,Satisfied,Yes,No
+Other,Adult,High,Furniture,Frequent,Daily,Medium,Satisfied,No,Yes
+Female,Senior,High,Furniture,Frequent,Daily,Low,Dissatisfied,No,Yes
+Female,Adult,Low,Clothing,Rare,Monthly,Medium,Satisfied,Yes,Yes
+Female,Young Adult,Low,Clothing,Occasional,Rarely,Medium,Very Satisfied,Yes,Yes
+Other,Young Adult,High,Electronics,Never,Rarely,Medium,Satisfied,No,Yes
+Male,Senior,High,Beauty ,Rare,Daily,High,Dissatisfied,No,No
+Male,Young Adult,Low,Electronics,Frequent,Weekly,High,Very Dissatisfied,Yes,No
+Female,Senior,Low,Electronics,Frequent,Weekly,High,Very Dissatisfied,Yes,Yes
+Other,Adult,High,Furniture,Occasional,Monthly,Medium,Satisfied,No,Yes
+Male,Young Adult,High,Electronics,Rare,Weekly,High,Satisfied,Yes,No
+Other,Senior,Medium,Beauty ,Frequent,Daily,High,Very Satisfied,Yes,Yes
+Other,Young Adult,Medium,Electronics,Occasional,Monthly,Low,Very Dissatisfied,Yes,No
+Female,Senior,Medium,Beauty,Rare,Weekly,Medium,Dissatisfied,No,No
+Male,Young Adult,Low,Groceries,Frequent,Daily,Low,Very Satisfied,No,No
+Other,Adult,Low,Beauty ,Never,Weekly,Medium,Very Dissatisfied,No,No
+Other,Adult,Low,Furniture,Occasional,Rarely,Medium,Satisfied,No,No
+Male,Adult,High,Furniture,Rare,Rarely,Low,Very Satisfied,No,No
+Female,Senior,High,Groceries,Never,Weekly,High,Very Satisfied,No,Yes
+Male,Adult,Low,Groceries,Occasional,Daily,High,Very Dissatisfied,Yes,Yes
+Other,Adult,Low,Groceries,Rare,Weekly,Medium,Satisfied,Yes,No
+Male,Young Adult,Low,Electronics,Frequent,Rarely,Low,Neutral,Yes,No
+Other,Adult,Low,Furniture,Occasional,Rarely,Low,Neutral,No,Yes
+Female,Adult,Low,Clothing,Never,Monthly,Low,Neutral,Yes,Yes
+Female,Adult,Medium,Clothing,Frequent,Daily,Low,Dissatisfied,Yes,No
+Male,Adult,Low,Furniture,Frequent,Monthly,High,Satisfied,No,Yes
+Female,Young Adult,High,Beauty ,Never,Daily,Low,Satisfied,Yes,Yes
+Other,Adult,Low,Furniture,Occasional,Rarely,Medium,Neutral,Yes,Yes
+Other,Young Adult,Low,Beauty ,Rare,Monthly,Medium,Very Satisfied,Yes,No
+Other,Adult,Medium,Groceries,Occasional,Weekly,Low,Neutral,Yes,No
+Male,Teen,Low,Furniture,Occasional,Rarely,High,Satisfied,No,Yes
+Female,Adult,Low,Clothing,Occasional,Daily,High,Satisfied,No,No
+Female,Young Adult,High,Clothing,Occasional,Rarely,Low,Satisfied,No,Yes
+Other,Adult,Medium,Furniture,Never,Daily,Low,Dissatisfied,Yes,No
+Other,Young Adult,High,Beauty ,Frequent,Weekly,High,Very Dissatisfied,No,Yes
+Male,Adult,High,Furniture,Never,Weekly,High,Very Dissatisfied,No,No
+Male,Senior,Low,Groceries,Never,Daily,High,Dissatisfied,No,No
+Male,Young Adult,Low,Electronics,Frequent,Rarely,High,Very Satisfied,No,Yes
+Other,Adult,Medium,Beauty ,Frequent,Daily,High,Very Dissatisfied,Yes,Yes
+Female,Teen,Medium,Beauty,Frequent,Weekly,High,Very Dissatisfied,No,No
+Female,Senior,Low,Clothing,Frequent,Daily,Medium,Neutral,No,Yes
+Other,Young Adult,Medium,Groceries,Frequent,Monthly,Low,Satisfied,No,Yes
+Female,Young Adult,High,Electronics,Occasional,Daily,Medium,Neutral,No,No
+Male,Adult,Medium,Electronics,Never,Monthly,Low,Very Satisfied,Yes,No
+Female,Adult,Medium,Electronics,Rare,Monthly,Low,Dissatisfied,Yes,No
+Male,Young Adult,Medium,Beauty,Occasional,Monthly,Low,Satisfied,No,No
+Other,Adult,Low,Clothing,Never,Monthly,Medium,Dissatisfied,No,No
+Male,Senior,Low,Furniture,Rare,Weekly,Medium,Very Satisfied,Yes,Yes
+Male,Young Adult,High,Furniture,Occasional,Monthly,High,Neutral,No,Yes
+Female,Young Adult,Medium,Groceries,Rare,Monthly,Low,Satisfied,No,Yes
+Female,Adult,High,Clothing,Rare,Monthly,Medium,Very Satisfied,Yes,Yes
+Other,Adult,Low,Beauty ,Frequent,Rarely,Low,Very Satisfied,Yes,No
+Female,Young Adult,Medium,Groceries,Frequent,Rarely,High,Satisfied,Yes,No
+Other,Senior,High,Beauty ,Frequent,Daily,Low,Very Satisfied,No,Yes
+Female,Adult,Medium,Furniture,Occasional,Weekly,Low,Neutral,No,No
+Other,Adult,Medium,Clothing,Rare,Daily,Medium,Very Satisfied,No,No
+Other,Adult,Low,Electronics,Frequent,Weekly,Low,Very Satisfied,Yes,Yes
+Male,Young Adult,High,Groceries,Never,Monthly,Low,Dissatisfied,No,No
