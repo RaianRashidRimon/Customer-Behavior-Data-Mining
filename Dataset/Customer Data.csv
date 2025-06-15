@@ -5,7 +5,7 @@ Male,26,Medium,Furniture,Frequent,Weekly,3300,Very Dissatisfied,No,No
 Male,60,High,Beauty ,Never,Monthly,2400,Very Satisfied,Yes,No
 Female,60,High,Beauty ,Occasional,Monthly,4750,Neutral,No,Yes
 Other,53,Low,Groceries,Occasional,Weekly,850,Very Satisfied,Yes,No
-Male,36,Low,Furniture,Never,Monthly,50,Very Dissatisfied,Yes,Yes
+Male,36,Low,Furniture,Never,Monthly,50,Very Dissatisfied,Yes,No
 Other,43,High,Beauty ,Frequent,Weekly,4900,Very Satisfied,Yes,Yes
 Female,53,Low,Clothing,Frequent,Rarely,4250,Neutral,Yes,No
 Other,54,High,Beauty ,Occasional,Weekly,2350,Satisfied,Yes,Yes
@@ -53,7 +53,7 @@ Female,57,Low,Electronics,Frequent,Weekly,4250,Very Dissatisfied,Yes,Yes
 Other,41,High,Furniture,Occasional,Monthly,2150,Satisfied,No,Yes
 Male,33,High,Electronics,Rare,Weekly,3900,Satisfied,Yes,No
 Other,56,Medium,Beauty ,Frequent,Daily,4350,Very Satisfied,Yes,Yes
-Other,29,Medium,Electronics,Occasional,Monthly,100,Very Dissatisfied,Yes,Yes
+Other,29,Medium,Electronics,Occasional,Monthly,100,Very Dissatisfied,Yes,No
 Female,57,Medium,Beauty,Rare,Weekly,2750,Dissatisfied,No,No
 Male,25,Low,Groceries,Frequent,Daily,1000,Very Satisfied,No,No
 Other,35,Low,Beauty ,Never,Weekly,1600,Very Dissatisfied,No,No
