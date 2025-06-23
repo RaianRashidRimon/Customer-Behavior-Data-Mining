@@ -4,7 +4,7 @@ from mlxtend.frequent_patterns import association_rules
 
 def generate_association_rules(csv_path="data.csv", min_support=0.1, min_confidence=0.7):
     try:
-        df = pd.read_csv('Customer Data (Categorical).csv')
+        df = pd.read_csv('Enter the path of your CSV(categorical)')
         df_encoded = pd.get_dummies(df)
         frequent_itemsets = apriori(df_encoded, min_support=min_support, use_colnames=True)
         rules = association_rules(frequent_itemsets, metric="confidence", min_threshold=min_confidence)
