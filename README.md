@@ -18,3 +18,12 @@ This project includes the following contents,
 The algorithms used in this project are,
   1. J48 (To generate Decision Tree)
   2. Apriori algorithm (To generate association rules)
+
+## 🤝 Contribution
+Contributions are welcome! If you’d like to improve this project, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch.
+3. Add or update Python scripts for more knowledge discovery.
+4. Submit a pull request.
+
