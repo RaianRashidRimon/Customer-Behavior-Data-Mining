@@ -13,3 +13,8 @@ This project includes the following contents,
   2. Original Dataset with categorical values
   3. Python Scripts
   4. Images 
+
+# 📊 Algorithms
+The algorithms used in this project are,
+  1. J48 (To generate Decision Tree)
+  2. Apriori algorithm (To generate association rules)
