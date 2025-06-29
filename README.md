@@ -1,6 +1,6 @@
 # Customer Behavior Data-Mining
 
-This project analyzes customer behavior using data mining techniques in WEKA. It includes decision tree classification and association rule mining to uncover patterns and relationships in the dataset.
+This project analyzes customer behavior using data mining techniques in WEKA and Python. It includes decision tree classification and association rule mining to uncover patterns and relationships in the dataset.
 
 # 🔧 Prerequisite
 Two requirements were needed to complete this project. 
