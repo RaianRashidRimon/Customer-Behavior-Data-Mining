@@ -22,7 +22,11 @@ The algorithms used in this project are,
   <img src="Images/Decision Tree (Python).jpg" alt="DT" width="1000"/>
   </div>
      
-  3. Apriori algorithm (To generate association rules)
+  2. Apriori algorithm (To generate association rules)
+
+  <div align="center">
+  <img src="Images/Association Rule (Python).jpg" alt="AR" width="550"/>
+  </div>
 
 ## 🤝 Contribution
 Contributions are welcome! If you’d like to improve this project, please follow these steps:
