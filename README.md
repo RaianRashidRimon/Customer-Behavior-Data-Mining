@@ -17,7 +17,12 @@ This project includes the following contents,
 # 📊 Algorithms
 The algorithms used in this project are,
   1. J48 (To generate Decision Tree)
-  2. Apriori algorithm (To generate association rules)
+
+  <div align="center">
+  <img src="Images/Decision Tree (Python).jpg" alt="DT" width="1000"/>
+  </div>
+     
+  3. Apriori algorithm (To generate association rules)
 
 ## 🤝 Contribution
 Contributions are welcome! If you’d like to improve this project, please follow these steps:
