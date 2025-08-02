@@ -28,7 +28,7 @@ The algorithms used in this project are,
   <img src="Images/Association Rule (Python).jpg" alt="AR" width="550"/>
   </div>
 
-## 🤝 Contribution
+# 🤝 Contribution
 Contributions are welcome! If you’d like to improve this project, please follow these steps:
 
 1. Fork the repository.
